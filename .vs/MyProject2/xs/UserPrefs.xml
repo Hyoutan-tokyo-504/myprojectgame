@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{6E9C14CA-CF70-E526-F37C-A82C090C99DB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoundaryController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ZombieScript.cs" Line="27" Column="35" />
+      <File FileName="Assets/Scripts/BugScript.cs" />
+      <File FileName="Assets/Scripts/BugBossScript.cs" />
+      <File FileName="Assets/Scripts/Shooting.cs" />
+      <File FileName="Assets/Scripts/CameraController.cs" />
+      <File FileName="Assets/Scripts/LevelSampleScript.cs" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" />
+      <File FileName="Assets/Scripts/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BoundaryController.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/PauseManager.cs" Line="61" Column="26" />
+      <File FileName="Assets/Scripts/HPManager.cs" Line="53" Column="2" />
+      <File FileName="Assets/Scripts/StartSceneManager.cs" />
+      <File FileName="Assets/Scripts/ReptileScript.cs" />
+      <File FileName="Assets/Scripts/ReptileBossScript.cs" />
+      <File FileName="Assets/Scripts/EndSceneManager.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyProject2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BoundaryController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="08966103-5de3-493e-9a17-5846e52c2899" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
